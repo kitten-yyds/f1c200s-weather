@@ -4,3 +4,9 @@
 [submodule "f1c200s-weather-uboot"]
 	path = f1c200s-weather-uboot
 	url = https://github.com/kitten-yyds/f1c200s-weather-uboot.git
+[submodule "f1c200s-weather-kernel5.2"]
+	path = f1c200s-weather-kernel5.2
+	url = https://github.com/kitten-yyds/f1c200s-weather-kernel5.2.git
+[submodule "f1c200s-weather-mcu"]
+	path = f1c200s-weather-mcu
+	url = https://github.com/kitten-yyds/f1c200s-weather-mcu.git
