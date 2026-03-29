@@ -13,3 +13,6 @@
 [submodule "f1c200s-weather-lvglsim"]
 	path = f1c200s-weather-lvglsim
 	url = https://github.com/kitten-yyds/f1c200s-weather-lvglsim.git
+[submodule "f1c200s-weather-software"]
+	path = f1c200s-weather-software
+	url = https://github.com/kitten-yyds/f1c200s-weather-software
